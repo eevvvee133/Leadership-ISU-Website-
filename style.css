@@ -7,6 +7,9 @@ h3 {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
 h3{font-size:small}
 body {background-color: rgb(97, 201, 201);}
 
-img {float:left
+img {   width: 25%;
+        height: auto;
+        float:left
+        margin-right: 2em;
 }
 
